@@ -1,3 +1,3 @@
 public class FuelTank {
-  eeeeeeeeeeeeeeeee
+  int inty = 0;
 }
